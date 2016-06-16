@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#111111'
+    - '#515151'
+    - '#777777'
+    - '#ABABAB'
+  rhythmicContrast: 0.4001074
+typography_spectrum: 0.9274973
+name: Paramount Tax Services
